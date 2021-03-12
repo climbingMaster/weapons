@@ -1,0 +1,19 @@
+open providers.json: no such file or directory
+
+Workaround
+You should copy the file in the current path where you are running subover command.
+
+/home/saiteja/weapons/portscan.sh: 7: naabu: not found
+
+python3: can't open file '/home/saiteja/Tools/getjswords.py': [Errno 2] No such file or directory
+
+
+
+  File "/home/saiteja/Tools/LinkFinder/linkfinder.py", line 11, in <module>
+    import re, sys, glob, html, argparse, jsbeautifier, webbrowser, subprocess, base64, ssl, xml.etree.ElementTree
+ModuleNotFoundError: No module named 'jsbeautifier'
+
+
+
+  File "/home/saiteja/Tools/SecretFinder/SecretFinder.py", line 16, in <module>
+
